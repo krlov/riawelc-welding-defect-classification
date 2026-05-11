@@ -123,13 +123,22 @@ Confusion matrix analysis showed that:
 ```text
 riawelc-welding-defect-classification/
 │
-├── README.md
-├── requirements.txt
+├── report_outputs/
+├── LICENSE
+├── Proje Sunumu.pdf
 ├── Proje.ipynb
+├── README.md
 ├── Rapor.pdf
-│
-└── results/
+└── requirements.txt
 ```
+
+---
+
+# Additional Materials
+
+* `Rapor.pdf` contains the full project report.
+* `Proje Sunumu.pdf` contains the presentation slides.
+* `report_outputs/` contains experimental outputs, figures and evaluation results.
 
 ---
 
